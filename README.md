@@ -2,9 +2,9 @@
 Experienced Field Technician | Tech Guru | Shifting Focus to Cloud Solutions
 
 ### Certifications
-- A+
-- Cisco Certified Tech RS
-- Cisco Certified Tech DC
+- CompTIA A+	Sept 2022
+- Cisco Certified Technician Routing and Switch	July 2023
+- Cisco Certified Technician Data Center	Oct 2023
 
 ### Work Experience
 Field Technician II @ NCR Atleos
