@@ -1,7 +1,10 @@
-# System Adminstrator
+### Hi, I'm Blake!
+Experienced Field Technician | Tech Guru | Shifting Focus to Cloud Solutions
 
-### Education
-Coursework completed toward degree
+### Certifications
+- A+
+- Cisco Certified Tech RS
+- Cisco Certified Tech DC
 
 ### Work Experience
 Field Technician II @ NCR Atleos
@@ -10,4 +13,4 @@ Field Technician II @ NCR Atleos
 
 ### Projects
 Active Directory
--
+
