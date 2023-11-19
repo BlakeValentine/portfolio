@@ -12,5 +12,5 @@ Field Technician II @ NCR Atleos
 - big impact project 2!
 
 ### Projects
-Active Directory
+Running Active Directory | Adding Bulk Users with Powershell
 
