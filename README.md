@@ -7,7 +7,6 @@ Experienced Field Technician | Tech Guru | Shifting Focus to Cloud Solutions
 - [Cisco Certified Technician Data Center](https://www.credly.com/badges/17dd5128-3b13-4af0-84d2-484e30be8f6b/public_url)	Oct 2023
 
 ### Projects
-[Active Directory Home Lab | Adding Bulk Users with Powershell]
-(https://github.com/BlakeValentine/ActiveDirectoryLab)
+[Active Directory Home Lab | Adding Bulk Users with Powershell](https://github.com/BlakeValentine/ActiveDirectoryLab)
 
 ### Connect with me
