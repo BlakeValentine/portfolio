@@ -11,14 +11,6 @@ Experienced Field Technician | Tech Guru | Shifting Focus to Cloud Solutions
 ### Projects
 [Active Directory Home Lab | Adding Bulk Users with Powershell](https://github.com/BlakeValentine/ActiveDirectoryLab)
 
-### Experience
-Company: NCR                                    
-Title: Field Service Technician II
-
-- Manage a wide range of ATM hardware and network issues, from fault diagnosis to TCP/IP configuration and security, while addressing customer concerns promptly.
-- Perform on-premise repairs of Cisco UCS family of servers and switches, ensuring minimal downtime and optimal performance for critical data center infrastructure.
-- Document service requests and repair activities, ensuring accurate records of equipment and software inventory, contributing to efficient tracking of resources and problem resolution.
-
 
 ### Connect with me
 [LinkedIn](https://www.linkedin.com/in/blake7valentine)
