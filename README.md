@@ -1,7 +1,7 @@
 
 
 ### Hi, I'm Blake!
-Experienced Field Technician | Tech Guru | Shifting Focus to Cloud Solutions
+Experienced Field Technician | Versatile IT Professional
 
 ### Certifications
 - [CompTIA A+](https://www.credly.com/badges/f8e0a284-0fd8-4530-9e29-95b87558749f/public_url)	
